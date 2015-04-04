@@ -3,7 +3,7 @@ package javalabs.lab2;
 public class MonthArray {
 
     private final static String HOW_TO_USE = "Should have only one integer parameter that lies in [1; 12]";
-    
+
     // array that contains all 12 months with days number.
     private final static Month[] MONTHS = new Month[] {
             new Month("January", 31),
